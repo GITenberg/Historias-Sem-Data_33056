@@ -1,0 +1,38 @@
+_repo: Historias-Sem-Data_33056
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Machado de Assis
+    aliases:
+    - De Assis, Machado
+    - Assis, Joaquim Maria Machado de
+    - Assis, Machado de
+    birthdate: 1839
+    deathdate: 1908
+    gutenberg_agent_id: '9685'
+    url: http://www.gutenberg.org/2009/agents/9685
+    wikipedia: http://pt.wikipedia.org/wiki/Machado_de_Assis
+description: ''
+gutenberg_bookshelf: PT Contos
+gutenberg_issued: '2010-07-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33056'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Short stories'
+- !lcsh 'Fiction'
+tableOfContents: A egreja do diabo -- O lapso -- Ultimo capítulo -- Cantiga de esponsaes
+  -- Uma senhora -- Singular occurrencia -- Galeria posthuma -- Capitulo dos chapéos
+  -- Conto Alexandrino -- Primas de sapucaia! -- Anecdota pecuniaria -- Fulano --
+  A segunda vida -- Noite de almirante -- Manuscripto de um sacristão -- Ex cathedra
+  -- A senhora do Galvão -- As academias de Sião.
+title: Historias Sem Data
+url: http://www.gutenberg.org/ebooks/33056
