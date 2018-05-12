@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/9685
     wikipedia: http://pt.wikipedia.org/wiki/Machado_de_Assis
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/33056#Historias-Sem-Data
 gutenberg_bookshelf: PT Contos
 gutenberg_issued: '2010-07-03'
 gutenberg_type: Text
